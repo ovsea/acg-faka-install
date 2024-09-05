@@ -49,7 +49,7 @@ dd的镜像:    https://ovsea.link/sysimages/archlinux-allinone.raw.xz
 
 - Hetzner Cloud
 
-  网站：[Hetzner Cloud](https://www.hetzner.com)
+  网站：[Hetzner Cloud](https://hetzner.cloud/?ref=svkrg3K6LSwv)
 
   位置：德国 美国
 
